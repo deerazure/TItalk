@@ -1,1 +1,1 @@
-![logo](./Github_Images/TItalk_logo.png)
+![TItalk_logo](./Github%20Images/TITalk_logo.png)
